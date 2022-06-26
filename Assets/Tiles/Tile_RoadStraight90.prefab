@@ -7,6 +7,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 740073877412479460, guid: 040665e8822a65c4a8ab38b9ca2ce8ae, type: 3}
+      propertyPath: towerPrefab
+      value: 
+      objectReference: {fileID: 3219458064393657486, guid: 8a965e088bae16643aab3d07ccfd5e2e, type: 3}
     - target: {fileID: 760681360140064177, guid: 040665e8822a65c4a8ab38b9ca2ce8ae, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -74,6 +78,10 @@ PrefabInstance:
     - target: {fileID: 7304475452146431001, guid: 040665e8822a65c4a8ab38b9ca2ce8ae, type: 3}
       propertyPath: m_Name
       value: Tile_RoadStraight90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8026958787262089092, guid: 040665e8822a65c4a8ab38b9ca2ce8ae, type: 3}
+      propertyPath: m_text
+      value: (0, 1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 040665e8822a65c4a8ab38b9ca2ce8ae, type: 3}
