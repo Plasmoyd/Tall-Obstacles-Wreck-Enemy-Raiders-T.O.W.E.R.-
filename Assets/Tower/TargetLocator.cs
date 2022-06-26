@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class TargetLocator : MonoBehaviour
 {
-
-    [SerializeField] Transform target;
     [SerializeField] Transform weapon;
+
+    Transform target;
 
     void Start()
     {
